@@ -10,7 +10,7 @@ Et pour enfin le resoudre on a intégré l'Algorithme A* afin de trouver les suc
 Membres : IMTICIA 4_MKETRIKA 
 - Sitraka : Algo
 - Francki : Développeur
-- Mandresy : Dev_Assistant
+- Tanjona : Dev_Assistant
 - Landry : Algo-Dev et Interface
-- Zaid : Responsable versioning
+- Zaïd : Responsable versioning
 - Désiré : Dev_Assistant
